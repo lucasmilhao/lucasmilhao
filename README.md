@@ -2,7 +2,7 @@
 
 ###
 <div>
-  <img src="https://raw.githubusercontent.com/lucasmilhao/lucasmilhao/languages.yml?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/lucasmilhao/lucasmilhao/languages.yml](https://github.com/lucasmilhao/lucasmilhao/blob/main/languages.yml?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
