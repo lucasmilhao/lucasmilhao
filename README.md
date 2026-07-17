@@ -1,11 +1,6 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is Lucas and I'm a Full-Stack, from Porto Alegre, RS</h2>
 
 ###
-<div>
-  <img src="https://raw.githubusercontent.com/lucasmilhao/lucasmilhao/languages.yml](https://github.com/lucasmilhao/lucasmilhao/blob/main/languages.yml?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 ###
 
@@ -39,7 +34,5 @@
 ###
 
 <br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 ###
